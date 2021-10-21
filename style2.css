@@ -1,0 +1,123 @@
+body {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+/*  */
+header {
+    background-color: black;
+    color: white;
+    height: 60px;
+    width: 100%;
+}
+/*  */
+.container {
+    padding-top: 75px;
+    max-width: 1020px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.avatar {
+    width: 270px;
+    height: 380px;
+    margin-left: 340px;
+    margin-top: -50px;
+
+    position: absolute;
+    border: 4px solid black;
+}
+
+.neil {
+    width: 450px;
+    height: 150px;
+    margin-left: 650px;
+    border: 4px solid black;
+    margin-top: -50px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.nichole {
+    width: 450px;
+    height: 150px;
+    margin-left: 650px;
+    border: 4px solid black;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    margin-top: -7px;
+}
+
+.jim {
+    width: 450px;
+    height: 150px;
+    margin-left: 650px;
+    border: 4px solid black;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+h2 {
+    margin-left: 550px;
+    font-size: xx-large;
+}
+
+.lt {
+    position: absolute;
+    margin-top: 2000;
+}
+
+button {
+    background-color: orange;
+    width: 80px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.lower {
+    position: absolute;
+    margin-top: 30px;
+}
+
+.para {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 3px;
+}
+
+.word {
+    color: rgb(39, 98, 116);
+    text-decoration: underline;
+}
+
+img {
+    height: 220px;
+    width: 220px;
+    position: relative;
+    border-radius: 50%;
+    border: 3px solid limegreen;
+    margin-left: 14px;
+}
+
+.profile {
+    margin-left: 58px;
+}
+.snake {
+    position: absolute;
+    font-size: 33px;
+    margin-left: 55px;
+}
+
+h1 {
+    padding-top: 20px;
+    margin-left: 40px;
+}
